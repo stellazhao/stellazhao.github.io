@@ -1,0 +1,28 @@
+.header-img{
+	height:55em;
+	margin-top: -13em;
+	background-image:url("https://scontent-lga.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/527596_10150967756204732_318487333_n.jpg?oh=b222fa6ce1b95f3ff3b63b149ddd8b1b&oe=55E0D4E3");
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-position: center;
+}
+
+.page-header {	
+	margin-top:32em;
+	width:100%;
+	color:white;
+	background-color: black;
+	opacity: 0.68;
+	font-family:Verdana;
+}
+.center {
+	text-align: center;
+}
+
+img{
+	margin-left: 3em
+}
+
+.col-lg-6{
+	text-align: center;
+}
